@@ -1,7 +1,7 @@
 {
 	"description": "Unit test cases",
 	"displayName": "1_Unit-Tests",
-	"name": "projects/78901377646/locations/us-east1/integrations/sample/versions/06d3acae-fef7-4077-8b85-71ab7fc9c068/testCases/78f47128-3942-4f68-9357-733cd6b65820",
+	"name": "projects/78901377646/locations/us-east1/integrations/sample/versions/10723699-c7d7-4182-9c24-81d0b34d6fb4/testCases/c148848d-e3f5-4b37-a810-089ee07c303a",
 	"testInputParameters": [
 		{
 			"dataType": "STRING_VALUE",
@@ -30,7 +30,7 @@
 					{
 						"key": "`Task_1_responseBody`",
 						"value": {
-							"stringValue": "{\"headers\":{\"host\":\"mock\",\"user-agent\":\"Google-Cloud-Application-Integration\"},\"method\":\"GET\",\"url\":\"/?user=foo\",\"args\":{\"user\":\"foo\"},\"body\":\"\"}"
+							"stringValue": "{\"headers\":{\"host\":\"mock\",\"user-agent\":\"Google-Cloud-Application-Integration\"},\"method\":\"GET\",\"url\":\"/?user=foo1\",\"args\":{\"user\":\"foo1\"},\"body\":\"\"}"
 						}
 					},
 					{

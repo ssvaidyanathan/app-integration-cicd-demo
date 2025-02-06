@@ -1,6 +1,6 @@
 {
 	"description": "Sample Integration for CI/CD",
-	"snapshotNumber": "7",
+	"snapshotNumber": "14",
 	"triggerConfigs": [
 		{
 			"label": "API Trigger",

@@ -1,7 +1,7 @@
 {
 	"description": "Integration test cases",
 	"displayName": "2_Integration-Tests",
-	"name": "projects/78901377646/locations/us-east1/integrations/sample/versions/06d3acae-fef7-4077-8b85-71ab7fc9c068/testCases/36e04048-4680-4bdb-a044-38765b382c5f",
+	"name": "projects/78901377646/locations/us-east1/integrations/sample/versions/10723699-c7d7-4182-9c24-81d0b34d6fb4/testCases/cfdea689-676a-4176-a096-292fb2590273",
 	"testInputParameters": [
 		{
 			"dataType": "STRING_VALUE",
